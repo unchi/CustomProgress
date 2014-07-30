@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87BE291F-F69E-4C31-BD2F-61F85C9572EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomProgress</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D2A6CE77-75BD-4F44-B5FD-36F2C40BB9CD</key>
+		<string>ssh://github.com/unchi/CustomProgress.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomProgress/CustomProgress.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D2A6CE77-75BD-4F44-B5FD-36F2C40BB9CD</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/unchi/CustomProgress.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D2A6CE77-75BD-4F44-B5FD-36F2C40BB9CD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D2A6CE77-75BD-4F44-B5FD-36F2C40BB9CD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UNCCustomProgress</string>
+		</dict>
+	</array>
+</dict>
+</plist>
